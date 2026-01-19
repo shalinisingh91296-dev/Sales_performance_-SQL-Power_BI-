@@ -6,6 +6,12 @@ Analyzed multi-year sales data using SQL and Power BI to track revenue, profit, 
 * Which products, regions, and sales reps drive performance?
 * Where are leakages (low profit, declining sales)?
 * How can management optimize strategy?
+* How does cumulative revenue build over time?
+* Which products perform best within each region?
+* Which sales reps perform above or below regional average?
+
+# Dataset
+I have worked on an e-commerce sales dataset that I downloaded from Kaggle. It has coulmns as order_id, order_date, customer_id, product, region, sales_rep, quantity, sales_amount and cost. 
 
 # Steps taken
 * Imported data into MySQL and Power BI.
@@ -14,3 +20,7 @@ Analyzed multi-year sales data using SQL and Power BI to track revenue, profit, 
 * Built interactive Power BI dashboards with sales, profit, margin, and growth metrics
 * Identified top & bottom-performing products, regions, and sales reps
 * Delivered actionable insights to improve sales strategy and profitability
+
+# SQL Queries, Power BI DAX calculation and Final Insights
+
+I have created a Power point presentation that I have uploaded in Github itself, Kindly chcek it out.
