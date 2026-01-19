@@ -7,4 +7,10 @@ Analyzed multi-year sales data using SQL and Power BI to track revenue, profit, 
 * Where are leakages (low profit, declining sales)?
 * How can management optimize strategy?
 
-# 
+# Steps taken
+* Imported data into MySQL and Power BI.
+* Wrote complex SQL queries for KPI calculation, trend analysis, and performance benchmarking
+* Created DAX measures for MoM growth, AOV, and profit margin analysis
+* Built interactive Power BI dashboards with sales, profit, margin, and growth metrics
+* Identified top & bottom-performing products, regions, and sales reps
+* Delivered actionable insights to improve sales strategy and profitability
